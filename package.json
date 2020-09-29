@@ -19,7 +19,11 @@
   "homepage": "https://github.com/LittleBoGeek/web-sprint-challenge-adding-data-persistence#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "helmet": "^4.1.1",
     "knex": "^0.21.5",
     "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
